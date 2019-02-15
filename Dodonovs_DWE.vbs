@@ -7,7 +7,7 @@ Sub DWE()
 ' Reference: Robust measures of central tendency: weighting as a possible alternative to trimming in response-time data analysis
 ' Yury S. Dodonov, Yulia A. Dodonova (Psikhologicheskie Issledovaniya. ISSN 2075-7999)
 ' Tarun Gupta, UVM (2016)
- ' Disclaimer: This code was written with little to no understanding of Visual Basic It works when implemented as a macro in MS Excel.
+ 'Implementation: As a macro in MS Excel.
 ' -----------------------------------
  
  
